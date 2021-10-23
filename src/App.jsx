@@ -88,7 +88,7 @@ export default function SignInSide() {
           sm={4}
           md={7}
           sx={{
-            backgroundImage: 'url(https://lh3.googleusercontent.com/-QBN_ctsPe5BTPw0k1M_EVhrksNJIEEz21yOF6iCtJxGq8o08WkvO_oW9K_FoqzRHsz1Mj6uLUH8yufuZQ=w768-h768-n-o-v1',
+            backgroundImage: 'url(https://avatars.githubusercontent.com/u/56766364?v=4',
             backgroundRepeat: 'no-repeat',
             backgroundColor: (t) =>
               t.palette.mode === 'light' ? t.palette.grey[50] : t.palette.grey[900],
